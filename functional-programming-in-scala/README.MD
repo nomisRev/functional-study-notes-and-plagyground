@@ -5,11 +5,3 @@ In this repo you can find the exercices of the book [Functional Programming in S
  * [Chapter 1 - What is Functional Programming](Chapter1-WhatIsFunctionalProgramming.MD)
  * [Chapter 2 - Getting Started](Chapter2-GettingStarted.MD)
  * [Chapter 3 - Functional Data Structures](Chapter3-FunctionalDataStructures.MD)
-
-
-## Additional notes
-
-  * [Polymorphic Functions](PolymorphicFunctions.MD)
-  * [Type Classes (Haskell/Scalaz)](TypeClasses.MD)
-  * [Higher-kinded types](HigherOrderKinds.MD)
-  * [Resources Category Theory](CategoryTheoryResources.MD)
