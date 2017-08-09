@@ -21,7 +21,7 @@ sealed trait Try[+T] extends MonadMethod[Try, T] {
   @inline def toOption: Option[T] = fold(None, Some(_))
 
   @inline def recover[TT >: T](f: => Try[TT]): Try[TT] = fold(f, _ => this)
-
+  
 }
 
 object Try {

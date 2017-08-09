@@ -1,7 +1,6 @@
 package funscala
 
-
-trait Functor[F[_],+T] {
+trait Functor[F[_], O[_], T] {
   def flatMap[X](f: T => F[X]): F[X]
   def map[TT >: T, X](f: T => X)(implicit pureable: Pureable[F,TT]): F[X] = flatMap(t => pureable.pure(f(t)))
 }
