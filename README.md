@@ -16,10 +16,11 @@ My road of studying functional programming
   * [A Modern Architecture for FP](http://degoes.net/articles/modern-fp)
 
   ### Scala
-
   * [Scalaz Task - the missing documentation](http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/)
   * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/index.html)
   * [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/)
+  * [Advanced FP in Scala](https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc)
+  * [Optics beyond lenses with monocle](https://blog.scalac.io/optics-beyond-lenses-with-monocle.html#polymorphic_lenses)
 
   ### Kotlin
   * [Kotlin Dependency Injection with the Reader Monad](https://medium.com/@JorgeCastilloPr/kotlin-dependency-injection-with-the-reader-monad-7d52f94a482e)
